@@ -1,12 +1,10 @@
 Metadata-Version: 2.1
 Name: image_processing_rafael_rodrigo
-Version: 0.0.1
+Version: 0.0.2
 Summary: Package image processing
-Home-page: git@github.com:raf-rodrigo/python-pacote-image-processing.git
+Home-page: https://github.com/raf-rodrigo/python-pacote-image-processing.git
 Author: Rafael Rodrigo
 Requires-Python: >=3.4
-Requires-Dist: scikit-image~=0.24.0
-Requires-Dist: numpy~=2.1.1
 
 # Processamento de Imagens
 
